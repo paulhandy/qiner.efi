@@ -1,4 +1,4 @@
-# QUBIC Miner UEFI application
+# QUBIC UEFI application
 
 To build, run:
 `make -f .mk`
